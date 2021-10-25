@@ -6,4 +6,4 @@ Window全体でイベントをキャッチする理由は、どのコントロ�
 数字は押したキー次第でD1やNumPad1といった文字列で取得されるので、取得した文字列から「最後の1文字を取得」する仕組みが必用です。  
 2019/11/6 少々修正しました。  
 簡単な解説は  
-https://nabe-hiro.hatenablog.com/entry/2019/11/05/180301
+https://www.nabehiro.net/2021/10/wpf-barcode.html
